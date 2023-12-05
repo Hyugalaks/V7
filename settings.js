@@ -20,8 +20,8 @@ global.APIKeys = {
 }
 
 //owmner v card
-global.owner = ['6283103795763','6283841950875'] //ur owner number
-global.ownernomer = "6283103795763","6283841950875"//ur owner number2
+global.owner = ['6283103795763'] //ur owner number
+global.ownernomer = "6283841950875"//ur owner number2
 global.ownername = "No Name" //ur owner name
 global.namaku = "No Name"
 global.ytname = "No Name" //ur yt chanel name
@@ -30,7 +30,7 @@ global.location = "Makassar Sulawesi Selatan, Indonesia " //ur location
 
 //new
 global.botname = "No Name Bot"
-global.ownernumber = '6283103795763','6283841950875'
+global.ownernumber = '6283103795763'
 global.ownername = 'No Name'
 global.ownerNumber = ["6283103795763@s.whatsapp.net","6283841950875@s.whatsapp.net"]
 global.ownerweb = "https://www.youtube.com/@"
@@ -42,7 +42,7 @@ global.wmbot = "No Name Bot - 7.0.1"
 global.botscript = 'kamu nanyeak escehnya?' //script link
 global.packname = "No Name Bot - 7.0.1"
 global.author = "No Name"
-global.creator = "6283103795763@s.whatsapp.net","6283841950875@s.whatsapp.net"
+global.creator = "6283103795763@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.hituet = 0
 global.running = "linux"
